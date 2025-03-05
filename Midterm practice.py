@@ -21,3 +21,4 @@ def multiple_of_6():
 
 
 multiple_of_6()
+
